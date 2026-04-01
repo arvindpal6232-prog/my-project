@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Anushree Ayurveda</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: linear-gradient(to right, #0f9b0f, #38ef7d);
+      color: white;
+      text-align: center;
+      padding: 50px;
+    }
+    .box {
+      background: rgba(0,0,0,0.3);
+      padding: 30px;
+      border-radius: 15px;
+    }
+    button {
+      padding: 15px 25px;
+      background: gold;
+      border: none;
+      font-size: 18px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <h1>🌿 Anushree Ayurveda</h1>
+  <h2>Natural Health Solutions</h2>
+  <p>Height, Strength & Liver Care ke liye trusted Ayurvedic products</p>
+
+  <button onclick="alert('Call Now: 6392830791')">
+    📞 Order Now
+  </button>
+</div>
+
+</body>
+</html>
